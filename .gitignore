@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 img/
 update_test.html
+data/*.png
+data/*.xlsx
